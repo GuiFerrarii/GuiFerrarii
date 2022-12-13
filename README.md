@@ -5,6 +5,3 @@
 [![Dribbble](	https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/GuiFerrar1)
 
 ![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiFerrarii&show_icons=true&theme=dracula)
-
-
-
